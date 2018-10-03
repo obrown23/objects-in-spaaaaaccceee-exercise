@@ -225,6 +225,11 @@ Without directly altering either the `system` object or the `PlanetX` object, in
 
 When you `console.log(system)`, planetX should be appear as a planet in the system.
 
+---
+
+Congrats! You are now an object building Jedi!
+
+![](https://media.giphy.com/media/KIDQKA59Wl9YY/giphy.gif)
 <hr>
 
 # Hungry for More? (Stretch Goals)
