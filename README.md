@@ -233,6 +233,8 @@ Self-guided study and research:
 
 ## Sorting an array of objects
 
+![](https://media.giphy.com/media/K791JhEoRS6QM/giphy.gif)
+
 ### Research
 
 You might have used `.sort()` to sort a regular array, but you can also use `.sort()` to sort an array of objects by the values stored in each object.
